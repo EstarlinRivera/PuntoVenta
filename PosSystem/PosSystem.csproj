@@ -52,6 +52,12 @@
     <Compile Include="ArticuloForm.Designer.cs">
       <DependentUpon>ArticuloForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="CategoriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoriaForm.Designer.cs">
+      <DependentUpon>CategoriaForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="DataSetCombox.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -90,6 +96,9 @@
     </Compile>
     <EmbeddedResource Include="ArticuloForm.resx">
       <DependentUpon>ArticuloForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoriaForm.resx">
+      <DependentUpon>CategoriaForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>

@@ -18,3 +18,13 @@ C:\Users\test1\Source\Repos\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.csp
 C:\Users\test1\Source\Repos\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
 C:\Users\test1\Source\Repos\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\test1\Source\Repos\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\bin\Debug\Data.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\bin\Debug\Entity.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\bin\Debug\Data.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\bin\Debug\Entity.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -43,9 +43,9 @@ namespace PosSystem
             bool valor = false;
 
             if (!string.IsNullOrWhiteSpace(txtNombre.Text) &&
-                !string.IsNullOrWhiteSpace(txtCodigo.Text)&&
-                !string.IsNullOrWhiteSpace(txtDescripcion.Text)&&
-                !string.IsNullOrWhiteSpace(cbCategoria.Text)&&
+                !string.IsNullOrWhiteSpace(txtCodigo.Text) &&
+                !string.IsNullOrWhiteSpace(txtDescripcion.Text) &&
+                !string.IsNullOrWhiteSpace(cbCategoria.Text) &&
                 !string.IsNullOrWhiteSpace(cbPresentacion.Text))
             {
                 valor = true;

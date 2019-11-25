@@ -14,3 +14,11 @@ C:\Users\test1\Source\Repos\PuntoVenta\Data\obj\Debug\Data.csprojAssemblyReferen
 C:\Users\test1\Source\Repos\PuntoVenta\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\test1\Source\Repos\PuntoVenta\Data\obj\Debug\Data.dll
 C:\Users\test1\Source\Repos\PuntoVenta\Data\obj\Debug\Data.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\bin\Debug\Data.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\bin\Debug\Data.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\bin\Debug\Entity.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\bin\Debug\Entity.pdb
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\obj\Debug\Data.dll
+C:\Users\user\Source\Repos\EstarlinRivera\PuntoVenta\Data\obj\Debug\Data.pdb
